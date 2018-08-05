@@ -9,5 +9,5 @@ You can perform any of the following :
 3. Copy Selected Links
 
 
-#Developed by Suddy.
-#Design by Narashiman Ramani
+#Developed by Sudharsan.
+#Design by Lakshmi Narasimhan
