@@ -10,4 +10,4 @@ You can perform any of the following :
 
 
 #Developed by Suddy.
-#Desingn by Narashiman Ramani
+#Design by Narashiman Ramani
