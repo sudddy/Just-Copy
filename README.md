@@ -1,4 +1,4 @@
-# Just-Copy
+# Just-Copy CHROME EXTENSION
 
 JUST COPY - Copy all tab links in just one click.
 
