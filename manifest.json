@@ -1,0 +1,21 @@
+{
+  "name": "Just Copy",
+  "version": "1.0",
+  "description": "Copy entire Tabs without even visiting it.",
+  "background": {
+    "scripts": ["js/background.js","js/jquery-latest.min.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "tabs","storage","declarativeContent"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+   },
+   "icons": { 
+    "16": "images/JCRESP1616.png",
+    "48": "images/JCRESP4848.png",
+   "128": "images/JCRESP128128.png" },
+
+  "manifest_version": 2
+}
