@@ -17,7 +17,7 @@ https://dribbble.com/Lakshmi_Narasimhan
 Watch how it works: 
 YouTube - https://www.youtube.com/watch?v=1am6ACqPUmo&feature=youtu.be
 
-For Non-Chrome Users:  
+For Non-Chrome OS Users:  
 
 HOW TO USE: 
 
