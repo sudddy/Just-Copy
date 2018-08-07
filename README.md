@@ -16,3 +16,13 @@ https://dribbble.com/Lakshmi_Narasimhan
 
 Watch how it works: 
 YouTube - https://www.youtube.com/watch?v=1am6ACqPUmo&feature=youtu.be
+
+For Non-Chrome Users:  
+
+HOW TO USE: 
+
+1. Download this project using "Clone or Download" option.
+2. Goto "Chrome://extensions" in Google Chrome.
+3. Enable Developer Mode options in right corner.
+4. Then, Click on "Load unpacked Extension" and upload the downloaded folder. 
+5. Now you will see the "JUST COPY" Extension added to your chrome.
